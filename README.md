@@ -13,4 +13,4 @@
 
 
 ### Peer-reviewed scientific articles on Scopus:
-
+[<img src="https://user-images.githubusercontent.com/45709486/170785099-e48da410-05e0-4e92-8b5e-fb6e7d97c076.png" width="60" height="60">](https://www.scopus.com/authid/detail.uri?authorId=57193614378)
