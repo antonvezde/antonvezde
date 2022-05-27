@@ -12,3 +12,5 @@
 [<img src="https://user-images.githubusercontent.com/45709486/170782849-7b9919fa-7416-465d-abf5-4ae2ea6e6866.jpeg" width="60" height="60">](https://t.me/antonvezde)
 
 
+### Peer-reviewed scientific articles on Scopus:
+
