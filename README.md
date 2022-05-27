@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently a PhD researcher in Physics @ TU Wien (Austria) and University of Bari (Italy)
+- 🔭 I’m a PhD researcher in Physics @ TU Wien (Austria) and University of Bari (Italy)
 - 🌱 Research interests: Applied Physics, Analytical Chemistry, Machine Learning, Data Science 
 - 🏄🏼‍♂️ Hobbies: tennis, swimming, calisthenics
 ### Don't hesitate and reach me out here:
