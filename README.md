@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=antonvezde&color=blueviolet)
 ### Hi there, I'm Anton - aka antonvezde 👋                                       
 
 
