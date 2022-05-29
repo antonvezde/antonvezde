@@ -5,7 +5,8 @@
 
 
 
-- 🔭 PhD researcher @ TU Wien (Austria)
+- 🔭 PhD researcher @ Technische Universität Wien (Austria)
+- 🔭 PhD researcher @ University of Bari (Italy)
 - 👾 Trainee Data Scientist @ Yandex.Practicum (Russia)
 - 🌱 Research interests: Machine Learning, Data Science, Applied Physics 
 - 🏄🏼‍♂️ Hobbies: tennis, swimming, calisthenics
