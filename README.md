@@ -5,8 +5,8 @@
 
 
 
-- 🔭 Current place of work: PhD researcher @ TU Wien (Austria)
-- 👾 Trainee Data Scientist (Russia)
+- 🔭 PhD researcher @ TU Wien (Austria)
+- 👾 Trainee Data Scientist @ Yandex.Practicum (Russia)
 - 🌱 Research interests: Machine Learning, Data Science, Applied Physics 
 - 🏄🏼‍♂️ Hobbies: tennis, swimming, calisthenics
 - 📍 Vienna, Austria
