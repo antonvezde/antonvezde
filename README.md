@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=antonvezde&color=blueviolet)  
 [![codewars](https://www.codewars.com/users/antonvezde/badges/small)](https://www.codewars.com/users/antonvezde)
-### Hi there, I'm Anton - aka antonvezde 👋                                       
+### Hi there, I'm Anton 👋                                       
 
 
 
